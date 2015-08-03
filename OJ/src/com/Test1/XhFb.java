@@ -16,5 +16,6 @@ public class XhFb {
 		Scanner in=new Scanner(System.in);
 		int xx=in.nextInt();
 		System.out.println(fibo(xx));
+		System.out.println(fibo(xx));
 	}
 }
